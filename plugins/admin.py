@@ -1,5 +1,5 @@
 
-# (c) @AbirHasan2005 | Modifieded By : @DC4_WARRIOR
+# (c) @Moviesseriesnewchannel | Modifieded By : @MoviesSeries_DiscussiinGroup
 
 import traceback
 import os
